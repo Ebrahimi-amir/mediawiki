@@ -12,7 +12,7 @@
  * @author Mjbmr
  */
 
-$fallback = 'fa';
+$fallback = 'az';
 $rtl = true;
 
 $namespaceNames = array(
